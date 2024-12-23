@@ -5,9 +5,10 @@
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
   },
-  "author": "",
+  "author": "Yasas",
   "license": "ISC",
-  "description": "",
+  "description": "Learn JS Fundamentals",
+  "type": "module",
 
   "dependencies": {
 
